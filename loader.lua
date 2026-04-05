@@ -11,7 +11,7 @@ local BgColor = Color3.fromRGB(10, 10, 12)     -- Đen sâu
 local CardColor = Color3.fromRGB(16, 16, 20)   -- Xám tối
 
 -- Remote Config (Thay link GitHub của bạn vào đây khi bán)
-local MainScriptURL = "local MainScriptURL = "https://raw.githubusercontent.com/kakamaxkevin-max/demon-HUb/refs/heads/main/main.lua""
+local MainScriptURL = "https://raw.githubusercontent.com/kakamaxkevin-max/demon-HUb/main/main.lua"
 -- Chống chạy trùng script
 if _G.DemonGodLoaded then return end
 _G.DemonGodLoaded = true
